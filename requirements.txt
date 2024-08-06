@@ -1,0 +1,4 @@
+baybe[chem,simulation]==0.10.0
+pandas[excel]>=2.2.2
+seaborn>=0.13.2
+matplotlib>=3.9.0
